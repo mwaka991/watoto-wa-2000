@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 120" role="img" aria-label="Payment provider logos">
+  <rect width="760" height="120" rx="20" fill="#fff" />
+  <rect x="15" y="15" width="170" height="90" rx="18" fill="#004289" />
+  <text x="100" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#fff">tigo</text>
+  <path d="M145 56 l20 -18 l12 22 l-12 20 l-20 -18" fill="#ffce00" />
+  <rect x="205" y="15" width="170" height="90" rx="18" fill="#d52b1e" />
+  <text x="290" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#fff">vodacom</text>
+  <rect x="395" y="15" width="170" height="90" rx="18" fill="#e60000" />
+  <text x="480" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#fff">airtel</text>
+  <text x="480" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#ffeb3b">money</text>
+  <rect x="585" y="15" width="170" height="90" rx="18" fill="#ff7f00" />
+  <text x="670" y="64" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#fff">halo</text>
+  <text x="670" y="92" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#fff">pesa</text>
+</svg>

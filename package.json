@@ -1,0 +1,15 @@
+{
+  "name": "palmpesa-pay-to-unlock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple pay-to-unlock video MVP with PalmPesa integration.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.4"
+  }
+}
